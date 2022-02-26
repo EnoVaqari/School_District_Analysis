@@ -50,7 +50,7 @@ Replacing the ninth graders’ math and reading scores has a direct affect only 
 * How does replacing the ninth-grade scores affect the following:
 
 
-1. Math and reading scores by grade
+* Math and reading scores by grade
 
 Math Score by Grade:
 
@@ -64,7 +64,7 @@ Reading Score by Grade:
 Exlucing the 9th grades causes minor percantage changes, which are not identifiable when rounding up to a whole number.
 
 
-2. Scores by school spending
+* Scores by school spending
 
 Original Scores by School Spending:
 
@@ -81,7 +81,7 @@ After excluding the ninth graders’ math and reading scores from the performanc
 
 
 
-1. Scores by school size
+* Scores by school size
 
 Original Scores By School Size:
 
@@ -96,7 +96,7 @@ Excluding 9th graders' math and reading scores from Thomas High School has sligh
 
 
 
-1. Scores by school type
+* Scores by school type
 
 
 Original Scores by school type:
